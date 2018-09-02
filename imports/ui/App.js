@@ -8,7 +8,7 @@ const App = ({
     data
 }) => < h1 > {
     data.hi
-} < /h1>;
+} < /h1 >;
 
 const hiQuery = gql `
     {
